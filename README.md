@@ -4,4 +4,4 @@ With this exploit and some knowledge you could probably win on any gambling webs
 
 ![console](https://github.com/V3RDAD/Un_4.bat/blob/main/random.png?raw=true)
 
-Due to confidentiality of this find I will only post the SHA256 of the file.
+Due to confidentiality of this find I will only post the checksum of the file.
